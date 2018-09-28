@@ -1,2 +1,2 @@
 station_ID;latitude;longitude;elevation_m;observation_time;temperature;dewpoint;wind_dir_degrees;wind_speed;pressure_hpa
-EDDT;52.57;13.32;37;2018-09-28T14:50:00Z;15;0;330;19;1023
+EDDT;52.57;13.32;37;2018-09-28T15:20:00Z;15;0;310;15;1023
